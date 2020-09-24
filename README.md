@@ -1,7 +1,7 @@
 #A simple pokemon card game.
 cd pokemon && yarn && yarn start
 
-Live demo: https://dreamy-hawking-a5466b.netlify.app/
+Live demo: https://mark-pokedex.netlify.app/
 
 What this project contains?
 
